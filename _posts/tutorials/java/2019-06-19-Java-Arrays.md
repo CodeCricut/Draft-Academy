@@ -136,7 +136,7 @@ Arrays are also limited in that they can only store one type of data. Want to st
 
 # <br/> Conclusion
 
-Arrays are very useful data structures that allow you to store related variables in one container. They make it easy to loop through each item individually, or use refer to all of them as a group. There are drawbacks to using Arrays, however. Their size is fixed, and you can only store variables of the same type in one Array. If you have to store a set number of alike items in a group, then Arrays will work. If you need a data structure that is more flexible, look into [ArrayLists](http://127.0.0.1:4000/java/2019/06/18/Java-ArrayLists.html), [HashSets](https://docs.oracle.com/javase/7/docs/api/java/util/HashSet.html), or [HashMaps](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html).
+Arrays are very useful data structures that allow you to store related variables in one container. They make it easy to loop through each item individually, or use refer to all of them as a group. There are drawbacks to using Arrays, however. Their size is fixed, and you can only store variables of the same type in one Array. If you have to store a set number of alike items in a group, then Arrays will work. If you need a data structure that is more flexible, look into [ArrayLists](/draft-academy/java/2019/06/18/Java-ArrayLists.html), [HashSets](https://docs.oracle.com/javase/7/docs/api/java/util/HashSet.html), or [HashMaps](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html).
 
 
 

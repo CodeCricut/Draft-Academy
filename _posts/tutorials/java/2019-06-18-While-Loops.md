@@ -49,7 +49,7 @@ Age: 17
 
 # <br/> Diagram
 
-![While-loop Diagram](\assets\images\tutorials\java\while-loops\WHILELOOP.jpg)
+![While-loop Diagram](/draft-academy\assets\images\tutorials\java\while-loops\WHILELOOP.jpg)
 
 ***
 

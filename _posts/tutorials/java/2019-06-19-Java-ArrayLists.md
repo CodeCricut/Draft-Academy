@@ -6,7 +6,7 @@ categories: java
 ***
 ## <br/> ArrayLists Overview
 
-Java [Arrays](http://127.0.0.1:4000/java/2019/06/18/Java-Arrays.html) are somewhat limited in their capability; Their size is not dynamic, and you can't add a item to the next available slot. They are good for some things, but don't fit every usecase.
+Java [Arrays](/draft-academy/java/2019/06/18/Java-Arrays.html) are somewhat limited in their capability; Their size is not dynamic, and you can't add a item to the next available slot. They are good for some things, but don't fit every usecase.
 
 Say you want to have a grocery list that starts of with 4 things. As the week goes by, you think of more things you want to add to the list. If you were storing the grocery list in an Array, you wouldn't be able to add more items. This is where ArrayLists come in. 
 

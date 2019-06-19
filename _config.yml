@@ -17,7 +17,7 @@ title: Draft Academy
 email: AJORIGAMI1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn the basics of Java, circuitry, and more | Under Construction
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/draft-academy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CodeCricut
 

@@ -10,7 +10,7 @@ A program that follows a strict set of instructions is useful, however is also l
 
 We use conditions all the time when going about our day. For example, we might go to bed if it is past midnight, or go to school or work if it is a weekday. These are conditions that we follow (sometimes loosely). Java follows them exactly. 
 
-Let's take a look at an example you might already be familiar with: [while-loops](/java/2019/06/18/While-Loops.html).
+Let's take a look at an example you might already be familiar with: [while-loops](/draft-academy/java/2019/06/18/While-Loops.html).
 
 While-loops use a conditional expression that is evaluted before the loop code is run. Inside this conditional expression, you usually have two variables or values and some kind of equality or relational operator (there are exceptions). Each conditional expression evaluates to either `true` or `false`. In the case of a while loop, the loop runs if the conditional expression is `true`. 
 
@@ -74,7 +74,7 @@ while (i != 10{
 
 ## Conclusion
 
-To have a dynamic program, we need a way of defining conditions that when true, will run certain code. Equality and relational operators help give us the ability to do this. We saw that they can be used in [while-loops](/java/2019/06/18/While-Loops.html), and they can also be used in [if statements](/java/2019/06/18/Java-If-Statements.html) and [for-loops](/java/2019/06/19/Java-For-Loops.html).
+To have a dynamic program, we need a way of defining conditions that when true, will run certain code. Equality and relational operators help give us the ability to do this. We saw that they can be used in [while-loops](/draft-academy/java/2019/06/18/While-Loops.html), and they can also be used in [if statements](/draft-academy/java/2019/06/18/Java-If-Statements.html) and [for-loops](/draft-academy/java/2019/06/19/Java-For-Loops.html).
 
 Equality and relational operators are only part of the equation for defining good conditions. [Unary operators](need to add link) and [conditional operators](need to add link) also help defind conditional expressions. 
 
