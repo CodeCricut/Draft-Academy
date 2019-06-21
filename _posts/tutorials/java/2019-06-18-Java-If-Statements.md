@@ -6,11 +6,11 @@ categories: java
 ***
 ## <br/> If Statement Basics
 
-[While-loops](/draft-academy/java/2019/06/18/While-Loops.html) run a specific block of code over and over while a certain condition is true. But what if you want to run a block of code once **if** a condition is true. This is where **if statements** come in.
+[While-loops]({{site.baseurl}}/java/2019/06/18/While-Loops.html) run a specific block of code over and over while a certain condition is true. But what if you want to run a block of code once **if** a condition is true. This is where **if statements** come in.
 
 If statements are a type of control flow statement that run a block of code if a certain condition is true at the time of evaluating the condition. They are increadibly useful, and can help you make more dynamic programs that do things such as respond to user input, search for items in an array, and tons of other things. 
 
-If you are already familiar with while-loops, [equality and relational operators](/draft-academy/java/2019/06/18/Java-Equality-and-Relational-Operators.html), or [conditional operators](/draft-academy/java/2019/06/18/Java-Conditional-Operators.html), then conditional expressions should be familiar to you. The basic syntax of an if statement is as follows:
+If you are already familiar with while-loops, [equality and relational operators]({{site.baseurl}}/java/2019/06/18/Java-Equality-and-Relational-Operators.html), or [conditional operators]({{site.baseurl}}/java/2019/06/18/Java-Conditional-Operators.html), then conditional expressions should be familiar to you. The basic syntax of an if statement is as follows:
 ```java
 if (conditional expression){
     // then run this code
@@ -106,7 +106,7 @@ if (age >= 10){
 
 
 # <br/> Diagram
-![If-statement Diagram](/assets/images/tutorials/java/if-statements/IF STATEMENTSa.jpg)
+![If-statement Diagram]({{site.baseurl}}/assets/images/tutorials/java/if-statements/IF STATEMENTSa.jpg)
 
 ***
 ## <br/> Combining Statements

@@ -5,4 +5,4 @@ categories: general
 ---
 ***
 
-![Mock newspaper](/draft-academy\assets\images\tutorials\general\mock-informational-newspaper\computer newspaper updated.jpg)
+![Mock newspaper]({{site.baseurl}}\assets\images\tutorials\general\mock-informational-newspaper\computer newspaper updated.jpg)

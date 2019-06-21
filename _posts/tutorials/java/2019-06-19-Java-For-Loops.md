@@ -6,7 +6,7 @@ categories: java
 ***
 ## <br/> For-Loops Basics
 
-We have already learned that [while-loops](/draft-academy/java/2019/06/18/While-Loops.html) are good for looping code while a condition is true, but what if we want to loop some code a specific number of times? We saw that while loops could do this, however it requires you to declare a variable outside the loop, and manipulate the variable in some way towards the end of the loop (like increment or decrement it). What if I told you there was a way to declare a variable, define a condition, and manipulate the variable each loop cycle For-loops give you the ability to do all three of these things in one line. 
+We have already learned that [while-loops]({{site.baseurl}}/java/2019/06/18/While-Loops.html) are good for looping code while a condition is true, but what if we want to loop some code a specific number of times? We saw that while loops could do this, however it requires you to declare a variable outside the loop, and manipulate the variable in some way towards the end of the loop (like increment or decrement it). What if I told you there was a way to declare a variable, define a condition, and manipulate the variable each loop cycle For-loops give you the ability to do all three of these things in one line. 
 
 Here is an example of a for-loop and it's syntax:
 ```java
@@ -39,6 +39,6 @@ After the operation is done to the variable, the condition defined in the loop i
 
 Here is a diagram to give you a better picture of what is happening:
 
-![For-loop Diagram](/draft-academy/assets/images/tutorials/java/for-loops/FORLOOP.jpg)
+![For-loop Diagram]({{site.baseurl}}/assets/images/tutorials/java/for-loops/FORLOOP.jpg)
 
 To learn more about for-loops, visit the [Java tutorials](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/for.html).

@@ -28,6 +28,6 @@ The ability for you to use variables opens up a ton of possibilities.
 
 ## <br/> All Arithmetic Operators
 
-![Arithmetic Operators](/draft-academy/assets/images/tutorials/java/arithmetic-operators/arithmetic-operators.png)
+![Arithmetic Operators]({{site.baseurl}}/assets/images/tutorials/java/arithmetic-operators/arithmetic-operators.png)
 
 To learn more about arithmetic operators, read about them in the [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op1.html).

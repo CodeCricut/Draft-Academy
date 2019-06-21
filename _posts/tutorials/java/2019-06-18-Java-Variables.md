@@ -68,6 +68,6 @@ Student GPA: 4.0
 
 There are many different types of variables. We cannot discuss all of them in this lesson, however listed below are many common variables that you might use in everyday applications.
 
-![Variable Types](/draft-academy/assets/images/tutorials/java/variable-basics/variableTypes.png)
+![Variable Types]({{site.baseurl}}/assets/images/tutorials/java/variable-basics/variableTypes.png)
 
 To learn more, look at the [Java Variables Tutorial](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html).

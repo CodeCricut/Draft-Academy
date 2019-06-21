@@ -6,7 +6,7 @@ categories: java
 ***
 ## <br/> Conditional Operators Overview
 
-[Equality and relational operators](/draft-academy/java/2019/06/18/Java-Equality-and-Relational-Operators.html) are useful for making conditional expressions that can be used in [while-loops](/draft-academy/java/2019/06/18/While-Loops.html) and [for-loops](need to add link), but they don't cover every possible condition. For example, what if you only wanted to run some code if two expressions were true? Well, perhaps you could nest some if statements, but then what if you wanted to run some code if any one of a few conditional expressions was true. Unless you copied code into multiple if statements, there would be no way to do this. That is, if **Conditional Operators** didn't exist. 
+[Equality and relational operators]({{site.baseurl}}/java/2019/06/18/Java-Equality-and-Relational-Operators.html) are useful for making conditional expressions that can be used in [while-loops]({{site.baseurl}}/java/2019/06/18/While-Loops.html) and [for-loops](need to add link), but they don't cover every possible condition. For example, what if you only wanted to run some code if two expressions were true? Well, perhaps you could nest some if statements, but then what if you wanted to run some code if any one of a few conditional expressions was true. Unless you copied code into multiple if statements, there would be no way to do this. That is, if **Conditional Operators** didn't exist. 
 
 There are two main condional operators (three in total). They are the AND operator, and the OR operator. As the names suggest, the AND operator only evaluates to true if the condition on the left and right are true, and the OR operator evaluates to true if either condition on the left and right is true.
 
